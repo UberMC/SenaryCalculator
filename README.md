@@ -1,4 +1,10 @@
 # SenaryCalculator
 A Base 6 calculator
+
+React Native / EXPO / Yarn
 <br>
-![Screenshot](screenshot.png)
+To Install:
+<br>
+yarn
+<br>
+expo start
