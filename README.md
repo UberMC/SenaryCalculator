@@ -9,4 +9,5 @@ yarn
 <br>
 expo start
 <br>
+https://expo.io/@trent_mb/SenaryCalculator
 ![Screenshot](screenshot.png)
