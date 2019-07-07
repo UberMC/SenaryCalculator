@@ -8,3 +8,5 @@ To Install:
 yarn
 <br>
 expo start
+<br>
+![Screenshot](screenshot.png)
